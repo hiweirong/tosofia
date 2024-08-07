@@ -1,0 +1,23 @@
+{
+  "greeting": "HELLO",
+  "name": "Sofia",
+  "greetingText": "I am glad to meet the most beautiful you in the most beautiful time",
+  "wishText": "中国情人节快乐。",
+  "imagePath": "img/sofia.png",
+  "text1": "今天是情人节!!! :D",
+  "textInChatBox": "首先非常高兴能够认识你",
+  "sendButtonLabel": "send",
+  "text2": "我想给你一个惊喜",
+  "text3": "我想了很久，认为这是一个不错的想法",
+  "text4": "We are not far apart, but we are in two countries",
+  "text4Adjective": "所以我制作了这个动画把玫瑰送给你",
+  "text5Entry": "Because，",
+  "text5Content": "You are special to me",
+  "smiley": ":)",
+  "bigTextPart1": "so",
+  "bigTextPart2": "then",
+  "wishHeading": "说你也没收到过花，于是我决定这么做",
+  "outroText": "I hope you enjoyed this little surprise!!",
+  "replayText": "如果你喜欢，你可以再看一遍，哈哈哈",
+  "outroSmiley": ":)"
+}
